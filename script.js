@@ -27,7 +27,7 @@
 // console.log("We have now raised: " + amountRaisedSoFar + "!");
 
 // let cups_consumed = 4;
-// if cups_consumed < 3 {
+// if (cups_consumed < 3) {
 //     console.log ("Yes, I'll take another cup of coffee");
 //     }
 //     else {console.log ("I think I'm okay for now.");
@@ -77,5 +77,3 @@
 //   console.log('outside of code block', i); // will log 9, the final value of i in the for loop, 
 //               //because var declared it globally. if you used let it wouldn't have access to the variable outside of the {}
 
-let miles = 501;
-    if miles = 
